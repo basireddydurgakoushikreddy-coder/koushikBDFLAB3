@@ -60,13 +60,13 @@ lab3/
 ### 1. Clone the repository
 
 bash
-git  https://github.com/vinuthnabajjuri-25/vinuthna_5017_lab3.git
+git clone https://github.com/basireddydurgakoushikreddy-coder/koushikBDFLAB3.git
 
 
 ### 2. Open the project folder
 
 bash
-cd lab3
+cd koushikBDFLAB3/lab3
 
 
 ### 3. Install dependencies
